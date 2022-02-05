@@ -8,7 +8,7 @@
             flex flex-col flex-wrap
             items-center
             py-5
-            border-t border-b border-gray-200
+            border-t border-b border-green-200
             md:flex-row
           "
         >
@@ -16,7 +16,7 @@
             class="flex flex-wrap items-center text-base lg:w-2/5 md:ml-auto"
           >
             <a
-              href="#_"
+              href="/"
               class="
                 mr-5
                 font-semibold
@@ -50,7 +50,7 @@
             >
           </nav>
           <a
-            href="#_"
+            href="/"
             class="
               flex
               items-center
@@ -85,7 +85,7 @@
                 md:ml-auto md:mt-0 md:justify-start
               "
             >
-              <a href="#" class="text-gray-400 hover:text-gray-500">
+              <a href="https://fb.me/TeamImumolen" class="text-gray-400 hover:text-gray-500">
                 <span class="sr-only">Facebook</span>
                 <svg
                   class="w-6 h-6"
@@ -101,7 +101,7 @@
                 </svg>
               </a>
 
-              <a href="#" class="text-gray-400 hover:text-gray-500">
+              <a href="https://www.instagram.com/p/CZhus48sihI/?utm_medium=copy_link" class="text-gray-400 hover:text-gray-500">
                 <span class="sr-only">Instagram</span>
                 <svg
                   class="w-6 h-6"
@@ -117,7 +117,7 @@
                 </svg>
               </a>
 
-              <a href="#" class="text-gray-400 hover:text-gray-500">
+              <a href="https://twitter.com/ImumolenProf" class="text-gray-400 hover:text-gray-500">
                 <span class="sr-only">Twitter</span>
                 <svg
                   class="w-6 h-6"

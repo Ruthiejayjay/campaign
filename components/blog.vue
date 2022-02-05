@@ -13,7 +13,7 @@
           border-b border-gray-200
         "
       >
-        <h2 class="text-3xl font-bold text-gray-800">Learning Resources</h2>
+        <h2 class="text-3xl font-bold text-green-800">Learning Resources</h2>
         <a
           href="#_"
           class="
@@ -74,7 +74,7 @@
               src="~/assets/blog1.jpeg"
             />
           </a>
-          <p class="text-xs font-bold text-gray-400 uppercase">Resources</p>
+          <p class="text-xs font-bold text-yellow-700 uppercase">Resources</p>
           <a
             href="#_"
             class="
@@ -118,7 +118,7 @@
               src="~/assets/img2.jpeg"
             />
           </a>
-          <p class="text-xs font-bold text-gray-400 uppercase">Resources</p>
+          <p class="text-xs font-bold text-yellow-700 uppercase">Resources</p>
           <a
             href="#_"
             class="
@@ -162,7 +162,7 @@
               src="~/assets/blog3.jpeg"
             />
           </a>
-          <p class="text-xs font-bold text-gray-400 uppercase">Resources</p>
+          <p class="text-xs font-bold text-yellow-700 uppercase">Resources</p>
           <a
             href="#_"
             class="
@@ -190,7 +190,7 @@
           border-b border-gray-200
         "
       >
-        <h2 class="text-3xl font-bold text-gray-800">Inspiration</h2>
+        <h2 class="text-3xl font-bold text-green-800">Inspiration</h2>
         <a
           href="#_"
           class="
@@ -248,10 +248,10 @@
                 scale-100
                 hover:scale-105
               "
-              src="https://cdn.devdojo.com/images/may2021/blog-image-04.jpg"
+              src="~/assets/blog1.jpeg"
             />
           </a>
-          <p class="text-xs font-bold text-gray-400 uppercase">Inspiration</p>
+          <p class="text-xs font-bold text-yellow-700 uppercase">Inspiration</p>
           <a
             href="#_"
             class="
@@ -292,10 +292,10 @@
                 scale-100
                 hover:scale-105
               "
-              src="https://cdn.devdojo.com/images/may2021/blog-image-05.jpg"
+              src="~/assets/blog2.jpeg"
             />
           </a>
-          <p class="text-xs font-bold text-gray-400 uppercase">Resources</p>
+          <p class="text-xs font-bold text-yellow-700 uppercase">Resources</p>
           <a
             href="#_"
             class="
@@ -336,10 +336,10 @@
                 scale-100
                 hover:scale-105
               "
-              src="https://cdn.devdojo.com/images/may2021/blog-image-06.jpg"
+              src="~/assets/blog5.jpeg"
             />
           </a>
-          <p class="text-xs font-bold text-gray-400 uppercase">REsources</p>
+          <p class="text-xs font-bold text-yellow-700 uppercase">REsources</p>
           <a
             href="#_"
             class="
