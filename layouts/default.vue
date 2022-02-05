@@ -21,7 +21,7 @@ export default {
 
   head() {
     return {
-      title: "Imumolen", // Other meta information
+      title: "teamImumolen", // Other meta information
       script: [
         {
           hid: "alphine",

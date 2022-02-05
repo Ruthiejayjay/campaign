@@ -1,11 +1,13 @@
 <template>
   <!-- Section 1 -->
-  <section class="py-20 bg-white">
+  <section
+    class="py-20 bg-gradient-to-br from-green-600 opacity-80 to-green-300"
+  >
     <div class="container max-w-6xl mx-auto">
       <h2 class="text-4xl font-bold tracking-tight text-center">
         Our Features
       </h2>
-      <p class="mt-2 text-lg text-center text-gray-600" contenteditable="true">
+      <p class="mt-2 text-lg text-center text-white" contenteditable="true">
         Check out our list of awesome features below.
       </p>
       <div
@@ -34,7 +36,7 @@
             sm:rounded-xl
           "
         >
-          <div class="p-3 text-white bg-blue-500 rounded-full">
+          <div class="p-3 text-white bg-yellow-700 rounded-full">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="w-8 h-8"
@@ -73,7 +75,7 @@
             sm:rounded-xl
           "
         >
-          <div class="p-3 text-white bg-blue-500 rounded-full">
+          <div class="p-3 text-white bg-yellow-700 rounded-full">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="w-8 h-8"
@@ -111,7 +113,7 @@
             sm:rounded-xl
           "
         >
-          <div class="p-3 text-white bg-blue-500 rounded-full">
+          <div class="p-3 text-white bg-yellow-700 rounded-full">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="w-8 h-8"
@@ -151,7 +153,7 @@
             sm:rounded-xl
           "
         >
-          <div class="p-3 text-white bg-blue-500 rounded-full">
+          <div class="p-3 text-white bg-yellow-700 rounded-full">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="w-8 h-8"
@@ -188,7 +190,7 @@
             sm:rounded-xl
           "
         >
-          <div class="p-3 text-white bg-blue-500 rounded-full">
+          <div class="p-3 text-white bg-yellow-700 rounded-full">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="w-8 h-8"
@@ -228,7 +230,7 @@
             sm:rounded-xl
           "
         >
-          <div class="p-3 text-white bg-blue-500 rounded-full">
+          <div class="p-3 text-white bg-yellow-700 rounded-full">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               class="w-8 h-8"

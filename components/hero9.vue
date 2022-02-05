@@ -6,7 +6,10 @@
         flex flex-col
         w-full
         overflow-hidden
-        bg-white
+        bg-gradient-to-br
+        from-green-200
+        opacity-80
+        to-green-600
         lg:flex-row
         sm:mx-auto
       "
@@ -16,7 +19,6 @@
           flex
           justify-end
           p-8
-          bg-white
           lg:py-32 lg:px-16 lg:pl-10 lg:w-1/2
         "
       >
@@ -52,7 +54,7 @@
           >
             Building The Foundation
           </h5>
-          <p class="py-5 mb-5 text-gray-600 lg:text-xl">
+          <p class="py-5 mb-5 text-white lg:text-xl">
             <span class="font-bold">Our Platform</span> will help you craft and
             build your next idea. Utilize our drag and drop components to build
             the application of your dreams.
@@ -72,7 +74,7 @@
                 text-white
                 transition
                 duration-200
-                bg-gray-900
+                bg-green-900
                 rounded-lg
                 hover:bg-gray-900
                 focus:shadow-outline focus:outline-none
@@ -86,7 +88,7 @@
               class="
                 inline-flex
                 items-center
-                text-lg text-gray-900
+                text-lg text-green-900
                 underline
                 transition-colors
                 duration-200
@@ -108,7 +110,7 @@
       </div>
       <div class="relative lg:w-1/2">
         <img
-          src="https://images.unsplash.com/photo-1578554700872-ef0e27c46d37?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=2934&amp;q=80"
+          src="~/assets/img6.jpeg"
           alt="Hero Image"
           class="object-cover w-full lg:absolute h-80 lg:h-full"
         />
